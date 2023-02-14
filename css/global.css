@@ -1,0 +1,19 @@
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(221, 243, 245);
+    margin: 0;
+    padding: 0;
+    font-family: 'Assistant', sans-serif;
+    line-height: 1;
+}
+
+div {
+    display: inline-block;
+    border: 1em;
+    border-color: black;
+}

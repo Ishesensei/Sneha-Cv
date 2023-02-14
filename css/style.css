@@ -1,0 +1,8 @@
+@import "global.css";
+
+hr {
+    border-color: white;
+    border-style: dotted none none;
+    width: 10vw;
+    border-width: 10px;
+}
